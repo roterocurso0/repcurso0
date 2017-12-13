@@ -1,3 +1,5 @@
 # repcurso0
-The super best repository.<br />
-Hola
+##Mis películas favoritas.<br />
+Terror| Drama | Comedia
+------------ | ------------- | ------------- 
+El resplandor| La vida es bella | Mortadelo y Filemón 
