@@ -1,2 +1,2 @@
 # repcurso0
-The best repository.
+The super best repository.
